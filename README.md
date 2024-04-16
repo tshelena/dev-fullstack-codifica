@@ -1,6 +1,6 @@
 # dev-fullstack-codifica
 
-Repositório criado para armazenar a solução dos exercícios propostos ao longo do curso de Desenvolvedor FullStack Junior da Codifica.
+# Repositório criado para armazenar a solução dos exercícios propostos ao longo do curso de Desenvolvedor FullStack Junior da Codifica.
 
 Inicialmente, os exercícios serão realizados em JavaScript.
 
@@ -10,3 +10,4 @@ Você pode utilizar o package prompt-sync para coletar input do console. Segue a
 
 npm install prompt-syncnpm 
 
+Ou baixar a pasta node_modules juntamente com os arquivos de código.
