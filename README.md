@@ -2,7 +2,7 @@
 
 # dev-fullstack-codifica
 
-Repositório criado para armazenar a solução dos exercícios propostos e projetos desenvolvidos ao longo do curso de Desenvolvedor FullStack Junior da Codifica, turma 2024/01.
+Repositório criado para armazenar os soluções dos exercícios propostos e projetos desenvolvidos ao longo do curso de Desenvolvedor FullStack Junior da Codifica, turma 2024/01.
 
 O curso está dividido em 8 módulos, sendo eles:
 Módulo 1 - Introdução à Lógica de Programação
