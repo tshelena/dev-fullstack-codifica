@@ -30,7 +30,7 @@ Java, JavaScript, HTML, CSS, Git, GitHub MySql, React, Redux Redux, Junit, Mocki
 
 Inicialmente, os exercícios serão realizados em JavaScript.
 
-## ⚙️ Pré Requisitos para executar os exercícios:
+### ⚙️ Pré Requisitos para executar os exercícios:
 
 - Um editor de texto como por exemplo o VSCode
 
@@ -39,7 +39,7 @@ Inicialmente, os exercícios serão realizados em JavaScript.
 - Git
 
 
-## ▶️ Execução
+### ▶️ Execução
 
 Clonar repositório na máquina:
 
