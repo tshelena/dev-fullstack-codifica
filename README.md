@@ -1,3 +1,5 @@
+![image](https://github.com/tshelena/dev-fullstack-codifica/assets/54648687/722cecb5-e990-4c56-8e26-7b6414a6e328)
+
 # dev-fullstack-codifica
 
 Repositório criado para armazenar a solução dos exercícios propostos ao longo do curso de Desenvolvedor FullStack Junior da Codifica.
