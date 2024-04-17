@@ -44,10 +44,10 @@ Clonar repositório na máquina:
 
 ```bash
 # HTTPS:
-git clone https://github.com/tshelena/
+git clone https://github.com/tshelena/](https://github.com/tshelena/dev-fullstack-codifica.git
 
 # SSH:
-git clone git@github.com:tshelena
+git clone git@github.com:tshelena/dev-fullstack-codifica.git
 
 
 `npm install prompt-syncnpm`
