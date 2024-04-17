@@ -22,7 +22,7 @@ Módulo 7 - Desenvolvimento de API’s Rest com Spring Boot
 
 Módulo 8 - Laboratório de Projeto Final
 
-Algumas das ferramentas e tecnologias utilizadas serão:
+### Algumas das ferramentas e tecnologias utilizadas serão:
 
 Java, JavaScript, HTML, CSS, Git, GitHub MySql, React, Redux Redux, Junit, Mockito.
 
