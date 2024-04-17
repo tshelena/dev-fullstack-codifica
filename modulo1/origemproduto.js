@@ -22,5 +22,4 @@ if (codOrigem === 1) {
 } else if (codOrigem > 20 && codOrigem < 25 || codOrigem > 50) {
     origem = "Produto Importado";
 }
-
 console.log(origem);
