@@ -10,4 +10,4 @@ let triplica = num2 * 3;
 let adiciona12 = num3 + (num3*0.12);
 num4 = num1+num2+num3+num4;
 
-console.log(soma, triplica, adiciona12, num4)
+console.log(soma, triplica, adiciona12, num4) 
