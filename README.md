@@ -1,11 +1,15 @@
-![image](https://github.com/tshelena/dev-fullstack-codifica/assets/54648687/722cecb5-e990-4c56-8e26-7b6414a6e328)
-
-# 💻 dev-fullstack-codifica
-
-### Repositório criado para armazenar os soluções dos exercícios propostos e projetos desenvolvidos ao longo do curso de Desenvolvedor FullStack Junior da Codifica, turma 2024/01.
+![image](https://github.com/tshelena/dev-fullstack-codifica/assets/54648687/72144038-c7b1-4226-a45a-05e327e18439)
 
 
-O curso está dividido em 8 módulos, sendo eles:
+<p align="center">
+    <b>💻 dev-fullstack-codifica</b>
+</p>
+
+Repositório criado para armazenar os soluções dos exercícios propostos e projetos desenvolvidos ao longo do curso de Desenvolvedor FullStack Junior da Codifica, turma 2024/01.
+
+
+<details>
+  <summary><strong>:memo:O curso está dividido em 8 módulos</strong></summary><br />
 
 Módulo 1 - Introdução à Lógica de Programação
 
@@ -22,15 +26,16 @@ Módulo 6 - Fundamentos de Bancos de Dados Relacionais
 Módulo 7 - Desenvolvimento de API’s Rest com Spring Boot
 
 Módulo 8 - Laboratório de Projeto Final
+</details>
 
-### 🛠️ Algumas ferramentas e tecnologias utilizadas:
+<h2> 🛠️ Algumas ferramentas e tecnologias utilizadas:</h2>
 
 Java, JavaScript, HTML, CSS, Git, GitHub MySql, React, Redux Redux, Junit, Mockito.
 
 
 Inicialmente, os exercícios serão realizados em JavaScript.
 
-### ⚙️ Pré Requisitos para executar os exercícios:
+<h2> ⚙️ Pré Requisitos para executar os exercícios: </h2>
 
 - Um editor de texto como por exemplo o VSCode
 
@@ -39,7 +44,7 @@ Inicialmente, os exercícios serão realizados em JavaScript.
 - Git
 
 
-### ▶️ Execução
+<h2>▶️ Execução</h2> 
 
 Clonar repositório na máquina:
 
