@@ -56,6 +56,6 @@ Clonar repositório na máquina:
 `git clone git@github.com:tshelena/dev-fullstack-codifica.git`
 
 
-`npm install prompt-syncnpm`
+`npm install prompt-sync`
 
 
