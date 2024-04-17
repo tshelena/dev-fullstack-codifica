@@ -23,7 +23,7 @@ Módulo 7 - Desenvolvimento de API’s Rest com Spring Boot
 
 Módulo 8 - Laboratório de Projeto Final
 
-### Algumas ferramentas e tecnologias utilizadas serão:
+### 🛠️ Algumas ferramentas e tecnologias utilizadas serão:
 
 Java, JavaScript, HTML, CSS, Git, GitHub MySql, React, Redux Redux, Junit, Mockito.
 
@@ -32,23 +32,23 @@ Inicialmente, os exercícios serão realizados em JavaScript.
 
 ## ⚙️ Pré Requisitos para executar os exercícios:
 
--> Um editor de texto como por exemplo o VSCode
+- Um editor de texto como por exemplo o VSCode
 
--> Node.JS
+- Node.JS
 
--> Git
+- Git
 
 
 ## ▶️ Execução
 
 Clonar repositório na máquina:
 
-```bash
-# HTTPS:
-git clone https://github.com/tshelena/](https://github.com/tshelena/dev-fullstack-codifica.git
 
-# SSH:
-git clone git@github.com:tshelena/dev-fullstack-codifica.git
+### HTTPS:
+`git clone https://github.com/tshelena/](https://github.com/tshelena/dev-fullstack-codifica.git`
+
+### SSH:
+`git clone git@github.com:tshelena/dev-fullstack-codifica.git`
 
 
 `npm install prompt-syncnpm`
