@@ -35,7 +35,7 @@ Java, JavaScript, HTML, CSS, Git, GitHub MySql, React, Redux Redux, Junit, Mocki
 
 Inicialmente, os exercícios serão realizados em JavaScript.
 
-<h2> ⚙️ Pré Requisitos para executar os exercícios: </h2>
+<h2> ⚙️ Pré requisitos para executar os exercícios: </h2>
 
 - Um editor de texto como por exemplo o VSCode
 
