@@ -56,6 +56,7 @@ Clonar repositório na máquina:
 `git clone git@github.com:tshelena/dev-fullstack-codifica.git`
 
 Instalar a biblioteca prompt-sync através do terminal executando o comando abaixo:
+
 `npm install prompt-sync`
 
 
