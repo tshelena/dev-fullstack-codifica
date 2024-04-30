@@ -30,7 +30,7 @@ Módulo 8 - Laboratório de Projeto Final
 
 <h2> 🛠️ Algumas ferramentas e tecnologias exploradas durante o curso:</h2>
 
-Java, JavaScript, HTML, CSS, Git, GitHub MySql, React, Redux Redux, Junit, Mockito.
+Java, JavaScript, HTML, CSS, Git, GitHub, MySql, React, Redux, Junit, Mockito.
 
 
 Inicialmente, os exercícios serão realizados em JavaScript.
