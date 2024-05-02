@@ -33,30 +33,4 @@ Módulo 8 - Laboratório de Projeto Final
 Java, JavaScript, HTML, CSS, Git, GitHub, MySql, React, Redux, Junit, Mockito.
 
 
-Inicialmente, os exercícios serão realizados em JavaScript.
-
-<h2> ⚙️ Pré requisitos para executar os exercícios: </h2>
-
-- Um editor de texto como por exemplo o VSCode
-
-- Node.JS
-
-- Git
-
-
-<h2>▶️ Execução</h2> 
-
-Clonar repositório na máquina:
-
-
-### HTTPS:
-`git clone https://github.com/tshelena/](https://github.com/tshelena/dev-fullstack-codifica.git`
-
-### SSH:
-`git clone git@github.com:tshelena/dev-fullstack-codifica.git`
-
-Instalar a biblioteca prompt-sync através do terminal executando o comando abaixo:
-
-`npm install prompt-sync`
-
 
